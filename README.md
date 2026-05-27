@@ -95,7 +95,7 @@ Why MPI fits this project:
 
 ---
 
-## Design and Implementation (Your Approach)
+## Design and Implementation
 
 ### 1) Master/Worker Model
 
